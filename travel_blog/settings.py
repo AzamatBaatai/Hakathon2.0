@@ -129,7 +129,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 from .local_settings import*
 
-LOGIN_REDIRECT_URL = '/travel/myprofile'
+LOGIN_REDIRECT_URL = '/account/myprofile'
 
 LOGOUT_REDIRECT_URL = '/travel'
 
